@@ -1,0 +1,22 @@
+{
+  "name": "opportunity-monitor",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Bonaventure Ibe — an opportunity & remote-jobs monitor for Nigerian university students. Powered by DeepSeek + Tavily live web search.",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "dompurify": "3.1.7",
+    "marked": "12.0.2",
+    "next": "^14.2.35",
+    "react": "18.3.1",
+    "react-dom": "18.3.1"
+  },
+  "engines": {
+    "node": ">=18.17.0"
+  }
+}
